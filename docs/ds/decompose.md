@@ -103,4 +103,4 @@ $T=\sqrt{n}$ 时，总复杂度 $O(m \sqrt{n})$。
 -   [Codeforces - Powerful array](http://codeforces.com/problemset/problem/86/D)
 -   [SPOJ - DQUERY](https://www.spoj.com/problems/DQUERY)
 
-    **本页面主要译自博文 [Sqrt-декомпозиция](http://e-maxx.ru/algo/sqrt_decomposition) 与其英文翻译版 [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)。其中俄文版版权协议为 Public Domain + Leave a Link；英文版版权协议为 CC-BY-SA 4.0。**
+    **本页面主要译自俄文 [Sqrt-декомпозиция](http://e-maxx.ru/algo/sqrt_decomposition) 与其英文翻译版 [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)。其中俄文版版权协议为 Public Domain + Leave a Link；英文版版权协议为 CC-BY-SA 4.0。**
